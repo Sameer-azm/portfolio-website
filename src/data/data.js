@@ -118,12 +118,3 @@ export const PERSONAL_INFO = {
   bio1: "I'm Sam, a passionate MERN stack developer based in Karachi. I specialize in building scalable, high-performance web applications with clean, maintainable code.",
   bio2: "From dynamic React frontends to robust Node/Express APIs and MongoDB schemas — I own the full stack. I'm obsessed with developer experience, performance, and design.",
 };
-
-
-
-//  export const socials = [
-//     { icon: "📧", label: PERSONAL_INFO.email,    href: `mailto:${PERSONAL_INFO.email}` },
-//     { icon: "💼", label: "LinkedIn",              href: PERSONAL_INFO.linkedin },
-//     { icon: "🐙", label: "GitHub",                href: PERSONAL_INFO.github   },
-//     { icon: "🐦", label: "Twitter",               href: PERSONAL_INFO.twitter  },
-//   ];
