@@ -20,6 +20,25 @@ export const socials = [
 
 export const PROJECTS = [
   {
+title: "Padel-APP-client",
+desc: "Full-Stack Padel Court Booking & Management System",
+tags: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Brevo", "Tailwind CSS"],
+textcolor: "text-[#00d5d4]",
+icon: "",
+link: "https://padel-client.vercel.app/",
+repo: "https://github.com/Sameer-azm/padel-management/tree/main/client",
+},
+
+{
+title: "Padel-APP-admin",
+desc: "Admin Management Dashboard for Padel Court Booking System",
+tags: ["React.js", "Node.js", "Express.js", "MongoDB", "JWT", "Brevo", "Tailwind CSS"],
+textcolor: "text-[#ff6b6b]",
+icon: "",
+link: "https://admin-padel-two.vercel.app/",
+repo: "https://github.com/Sameer-azm/padel-management/tree/main/admin",
+},
+  {
     title: "Shopee <Fullstack/>",
     desc:  "Full-stack e-commerce platform with real-time inventory, Stripe payments, JWT auth, and admin dashboard.",
     tags:  ["React", "Node.js", "MongoDB", "Express", "Stripe"],
@@ -47,15 +66,15 @@ export const PROJECTS = [
     link:  "https://github.com/Sameer-azm/RealTimeDeviceTrack.git",
     repo:  "https://github.com/Sameer-azm/RealTimeDeviceTrack.git",
   },
-  {
-    title: "Notes-APP",
-      desc:  "A sleek and intuitive note-taking application that allows users to create, edit, and organize their notes seamlessly. Built with a focus on user experience and performance.",
-    tags:  ["Next.js", "React", "Node.js", "TailwindCSS"],
-    textcolor: "text-[#ff6b6b]",
-    icon:  "📋",
-    link:  "https://notesappbysame.netlify.app/",
-    repo:  "https://github.com/Sameer-azm/Notes-app",
-  },
+  // {
+  //   title: "Notes-APP",
+  //     desc:  "A sleek and intuitive note-taking application that allows users to create, edit, and organize their notes seamlessly. Built with a focus on user experience and performance.",
+  //   tags:  ["Next.js", "React", "Node.js", "TailwindCSS"],
+  //   textcolor: "text-[#ff6b6b]",
+  //   icon:  "📋",
+  //   link:  "https://notesappbysame.netlify.app/",
+  //   repo:  "https://github.com/Sameer-azm/Notes-app",
+  // },
   {
     title: "30 Days JavaScript Projects",
       desc:  "A collection of  practical JavaScript projects to enhance skills and build a strong foundation in the language.",

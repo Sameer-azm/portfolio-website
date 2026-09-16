@@ -24,7 +24,7 @@ const Projects = () => {
         whileInView={{ opacity: 1, y: 0 }}
         transition={{duration:0.5, delay: 0.3*i }}
         viewport={{once:true}}
-        viewport={{ once: true }}
+      
             key={i}
             className='flex flex-col gap-3 h-90 bg-[#111111] border border-white/80 rounded-2xl p-5 hover:border-amber-400 transition-all duration-300 group'
             style={{ fontFamily: "'Syne', sans-serif" }}
