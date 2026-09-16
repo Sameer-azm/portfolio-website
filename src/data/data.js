@@ -66,6 +66,24 @@ repo: "https://github.com/Sameer-azm/padel-management/tree/main/admin",
     link:  "https://github.com/Sameer-azm/RealTimeDeviceTrack.git",
     repo:  "https://github.com/Sameer-azm/RealTimeDeviceTrack.git",
   },
+  {
+title: "Full-Stack Social Post Application",
+
+desc: "A full-stack web application that allows users to create posts with images and captions, upload media, and view published posts through a responsive feed.",
+
+tags: ["React.js", "Node.js", "Express.js", "MongoDB", "Multer", "Axios"],
+
+textcolor: "text-[#ff6b6b]",
+
+bordercolor: "bg-[#ff6b6b]",
+
+icon: "📝",
+
+link: "https://post-app-x18n-23y2lrnz1-sameerazamned-9015s-projects.vercel.app/",
+
+repo: "https://github.com/Sameer-azm/post-app/tree/main",
+},
+
   // {
   //   title: "Notes-APP",
   //     desc:  "A sleek and intuitive note-taking application that allows users to create, edit, and organize their notes seamlessly. Built with a focus on user experience and performance.",
